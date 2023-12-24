@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\staff_cleaner\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-ldpi-v4\\ic_call_answer_video_low.png",
+        "source": "C:\\Users\\Rio\\.gradle\\caches\\transforms-3\\e045a97a1000a53d4651dc801ec001bd\\transformed\\core-1.10.1\\res\\drawable-ldpi-v4\\ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "C:\\staff_cleaner\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-ldpi-v4\\ic_call_answer_low.png",
+        "source": "C:\\Users\\Rio\\.gradle\\caches\\transforms-3\\e045a97a1000a53d4651dc801ec001bd\\transformed\\core-1.10.1\\res\\drawable-ldpi-v4\\ic_call_answer_low.png"
+    },
+    {
+        "merged": "C:\\staff_cleaner\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-ldpi-v4\\ic_call_decline.png",
+        "source": "C:\\Users\\Rio\\.gradle\\caches\\transforms-3\\e045a97a1000a53d4651dc801ec001bd\\transformed\\core-1.10.1\\res\\drawable-ldpi-v4\\ic_call_decline.png"
+    },
+    {
+        "merged": "C:\\staff_cleaner\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-ldpi-v4\\ic_call_decline_low.png",
+        "source": "C:\\Users\\Rio\\.gradle\\caches\\transforms-3\\e045a97a1000a53d4651dc801ec001bd\\transformed\\core-1.10.1\\res\\drawable-ldpi-v4\\ic_call_decline_low.png"
+    },
+    {
+        "merged": "C:\\staff_cleaner\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-ldpi-v4\\ic_call_answer.png",
+        "source": "C:\\Users\\Rio\\.gradle\\caches\\transforms-3\\e045a97a1000a53d4651dc801ec001bd\\transformed\\core-1.10.1\\res\\drawable-ldpi-v4\\ic_call_answer.png"
+    },
+    {
+        "merged": "C:\\staff_cleaner\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-ldpi-v4\\ic_call_answer_video.png",
+        "source": "C:\\Users\\Rio\\.gradle\\caches\\transforms-3\\e045a97a1000a53d4651dc801ec001bd\\transformed\\core-1.10.1\\res\\drawable-ldpi-v4\\ic_call_answer_video.png"
+    }
+]
